@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0e141b">
+    <title>Hayden Brave | Audiobook</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="theme-dark audiobook-page">
+    <main class="listen-shell">
+        <header class="listen-header">
+            <div>
+                <p class="eyebrow">Audiobook</p>
+                <h1>Hayden Brave</h1>
+            </div>
+
+            <div class="listen-nav">
+                <a class="button-link inline-link" href="index.html">Home</a>
+                <a class="button-link inline-link" href="reader.html">Back to Reader</a>
+            </div>
+        </header>
+
+        <section class="listen-layout">
+            <article class="player-panel">
+                <img src="assets/hayden-brave-audio-cover.jpg" alt="Hayden Brave audiobook cover" class="audio-cover">
+                <p class="player-label">Now selected</p>
+                <h2 id="audio-book-title">Hayden Brave</h2>
+                <p id="current-chapter-title" class="current-chapter-title">Loading chapters...</p>
+
+                <audio id="chapter-audio" controls preload="metadata" class="audio-element"></audio>
+
+                <div class="audio-actions">
+                    <button id="prev-track-btn" type="button">Previous Chapter</button>
+                    <button id="next-track-btn" type="button">Next Chapter</button>
+                </div>
+
+                <p id="audio-status" class="audio-status" role="status" aria-live="polite">
+                    Loading audiobook manifest...
+                </p>
+            </article>
+
+            <aside class="chapters-panel" aria-label="Audiobook chapters">
+                <div class="chapters-header">
+                    <h2>Chapters</h2>
+                    <span id="chapter-count" class="chapter-count">0 tracks</span>
+                </div>
+                <ul id="audio-chapter-list" class="audio-chapter-list"></ul>
+            </aside>
+        </section>
+    </main>
+
+    <script src="listen.js"></script>
+</body>
+</html>

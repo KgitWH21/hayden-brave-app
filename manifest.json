@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Opening Credits",
+    "file": "Opening Credits.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Introduction",
+    "file": "Introduction.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Also by Keith Hayden",
+    "file": "Also by Keith Hayden.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Chapter 1: The Quiet Force",
+    "file": "Ch 1_The Quiet Force.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Chapter 2: Teen Cadet Officer in the Making",
+    "file": "Ch 2_Teen Cadet Officer in the Making.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Chapter 3: The Long Blue Shadow",
+    "file": "Ch 3_The Long Blue Shadow.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Chapter 4: Bright Lights, Broken Dreams, Big Wins",
+    "file": "Ch 4_Bright Lights_Broken Dreams_Big Wins.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Chapter 5: Hot Pursuit - From Pepperflakes to Firepower",
+    "file": "Ch 5_Hot Pursuit_From Pepperflakes to Firepower.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Chapter 6: Quest for Clarity and Closure in Japan",
+    "file": "Ch 6_Quest for Clarity and Closure in Japan.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Chapter 7: Red Dawn to Dusk on The Other Island",
+    "file": "Ch 7_Red Dawn to Dusk on The Other Island.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Chapter 8: Seeds of Change",
+    "file": "Ch 8_Seeds of Change.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Chapter 9: Conclusion",
+    "file": "Ch 9_Conclusion.mp3"
+  },
+  {
+    "id": 13,
+    "title": "How to Extend This Book",
+    "file": "How to Extend This Book.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Afterword",
+    "file": "Afterword.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Acknowledgements",
+    "file": "Acknowledgements.mp3"
+  },
+  {
+    "id": 16,
+    "title": "About the Author",
+    "file": "About the Author.mp3"
+  }
+]
